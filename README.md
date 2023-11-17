@@ -23,14 +23,14 @@ Use responsibly and sniff safely!
 ### Screenshots
 Some of you may wish to see screen-caps of this app to know what you are dealing with. Your prayers have been heard. The screen-caps are below.
 
-Screen-cap of the Bull Sniffer being used at a halloween party.
+Screen-cap of the Bull Sniffer being used at a halloween party.[^1]
 ![people in halloween costumes](./AppStoreAssets/screencaps_for_README/01_woot_woot.png)
 
-Screen-cap of a monkey using the Bull Sniffer for the purposes of political commentary.
+Screen-cap of a monkey using the Bull Sniffer for the purposes of political commentary.[^2]
 ![a monkey critiquing human meat consumption](./AppStoreAssets/screencaps_for_README/02_smiling_landscape.png)
 
-Screen-cap of a man sharing a tender moment with the Bull Sniffer.
-![a man poppin' the question](./AppStoreAssets/screencaps_for_README/04_marriage_landscape.png)
+Screen-cap of a man sharing a tender moment with the Bull Sniffer.[^3]
+![a man poppin' the question](./AppStoreAssets/screencaps_for_README/03_love_landscape.png)
 
 At first glance, the captions in these screenshots might not seem immediately connected to the BS levels being detected by the Bull Sniffer's sensors. But recall that these captions are meant to express the *qualitative* side of BS: it expresses how the BS *feels*. For instance, in the picture of the monkey the high BS rating tracks the amount of BS the monkey sees in modern society (or the modern meat industry in particular). And in the third photo, the relatively low BS rating tracks the man's relative certainty about his feelings. He is 73% percent sure that he *does* in fact love you (with the remaining 27% is being picked up by the BS detector). With some practice and a little patience, one will start to understand the relationship between the quantitive and the qualitiative side of BS (i.e. the relationship that exists between the percentage points and the captions).
 
@@ -50,3 +50,7 @@ For those interested, screen-caps or promotional photos for your particular Appl
 The software for the app can be found in the [App](./App/) directory. The images used for the App Store listing can be found in the [AppStoreAssets](./AppStoreAssets/) directory.
 
 The software is free software and is licensed under the [GNU Afferno General Public License](./LICENSE.txt). The images used for the App Store listing are modifications of images in the Creative Commons, retrieved via WikiMedia. Proper attribution is provided at the bottom left of each photo or in the footnotes below.
+
+[^1]: Original picture from Infrogmation of New Orleans, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
+[^2]: The original picture is a self-portrait by the depicted Macaca nigra female. Public domain, via Wikimedia Commons
+[^3]: Original picture from Tahirshah999, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons

@@ -8,13 +8,13 @@
 4. [Some legal disclaimers](#privacy)
 5. [A note on copyleft](#copyleft)
 
-## <a name="what">What is this app?</a>
+# <a name="what">What is this app?</a>
 This app measures bulls--t. I'll explain more below.
 
-### <a name="breif">A brief, no bulls--t description</a>
+## <a name="breif">A brief, no bulls--t description</a>
 This is an iPhone app that measures BS scientifically. Simply point your iPhone at the suspected source of BS, and the app will scan it and determine how much BS is present as an exact percentage point. It will also provide a relevant caption to help the user gauge the significance of this measurement.
 
-### <a name="flasier">A flashier description</a>
+## <a name="flasier">A flashier description</a>
 ***MEASURE B.S. SCIENTIFICALLY***
 
 Do you ever think to yourself: "darn, I wish there was a way to safely and securely measure BS scientifically from the safety of my Apple device"?
@@ -28,7 +28,7 @@ And that's it! Once you've successfully scanned the suspected source of BS, the 
 
 Use responsibly and sniff safely!
 
-### <a name="screenshots">Screenshots</a>
+## <a name="screenshots">Screenshots</a>
 Some of you may wish to see screen-caps of this app to know what you are dealing with. Your prayers have been heard. The screen-caps are below.
 
 *Screen-cap of the Bull Sniffer being used at a halloween party:* [^1]
@@ -44,10 +44,24 @@ At first glance, the captions in these screenshots might not seem immediately co
 
 For those interested, screen-caps or promotional photos for your particular Apple device can be found on the App store. All screen-caps or promotional photos are stored in the [AppStoreAssets](./AppStoreAssets/) folder.
 
-## <a name="privacy">Privacy policy</a>
-This app requires access to your device's camera in order to function properly. That said, the app does not collect any information about the user whatsoever. No information is sent to any third parties since no information about the user is collected to begin with. The app does not record how often you use it, the photos you save, or anything at all. The data is all yours for the keeping.
+# <a name="privacy">Privacy policy</a>
+The Bull Sniffer requires the following permissions:
+1. Permission to access your device's camera
+2. Permission to save images to the camera roll
 
-## <a name="disclaimer">Legal disclaimers</a>
+Since the Bull Sniffer is essentially a camera app, these permissions are necessary for the app's proper functioning. These permissions are only exercised under one or both of the following conditions are met:
+1. The user is currently accessing the Bull Sniffers internal camera view
+2. The user saves a photo using the Bull Sniffer's user interface
+
+The Bull Sniffer does not collect any data about users or their app usage. More specifically:
+* The Bull Sniffer does not collect any third-party analytics
+* The Bull Sniffer does not include any third-party advertising
+* The Bull Sniffer does not share any data with third-parties
+* The Bull Sniffer does not collect any user or device data of any other kind
+
+In short: the Bull Sniffer does ***not*** collect any user or device data.
+
+# <a name="disclaimer">Legal disclaimers</a>
 * 💩 This app does not ***literally*** detect BS
 * 🧪 Strictly speaking, this app is not "scientific"
 * 🧬 Strictly speaking, this app's measurement software is not "highly technical"
@@ -57,7 +71,7 @@ This app requires access to your device's camera in order to function properly. 
 * 🛸 Do not use this app to start a multi-decade UFO/UAP crash retrieval + reverse engineering program
 * 📜 This app comes with absolutely ***NO*** warranty
 
-## <a name="copyleft">A note on copyright (and/or copyleft)</a>
+# <a name="copyleft">A note on copyright (and/or copyleft)</a>
 The software for the app can be found in the [App](./App/) directory. The images used for the App Store listing can be found in the [AppStoreAssets](./AppStoreAssets/) directory.
 
 The software is free software and is licensed under the [GNU Afferno General Public License](./LICENSE.txt). The images used for the App Store listing are modifications of images in the Creative Commons, retrieved via WikiMedia. Proper attribution is provided at the bottom left of each photo or in the footnotes below.

@@ -1,0 +1,6 @@
+.DS_STORE
+App/node_modules/
+App/ios/
+App/android/
+02_AppStoreAssets/
+App/.expo

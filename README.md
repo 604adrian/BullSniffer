@@ -1,4 +1,4 @@
-# 💩 BULL SNIFFER 💩
+# 💩 BULL SNIFFER
 
 ## What is this app?
 This app measures bulls--t. I'll explain more below.
@@ -7,7 +7,7 @@ This app measures bulls--t. I'll explain more below.
 This is an iPhone app that measures BS scientifically. Simply point your iPhone at the suspected source of BS, and the app will scan it and determine how much BS is present as an exact percentage point. It will also provide a relevant caption to help the user gauge the significance of this measurement.
 
 ### A flashier description
-💩🔬 MEASURE B.S. SCIENTIFICALLY 🔬💩 
+***MEASURE B.S. SCIENTIFICALLY***
 
 Do you ever think to yourself: "darn, I wish there was a way to safely and securely measure BS scientifically from the safety of my Apple device"?
 
@@ -20,7 +20,7 @@ And that's it! Once you've successfully scanned the suspected source of BS, the 
 
 Use responsibly and sniff safely!
 
-### Screencaps
+### Screenshots
 Some of you may wish to see screen-caps of this app to know what you are dealing with. Your prayers have been heard. The screen-caps are below.
 
 Screen-cap of the Bull Sniffer being used at a halloween party.
@@ -34,7 +34,7 @@ Screen-cap of a man sharing a tender moment with the Bull Sniffer.
 
 At first glance, the captions in these screenshots might not seem immediately connected to the BS levels being detected by the Bull Sniffer's sensors. But recall that these captions are meant to express the *qualitative* side of BS: it expresses how the BS *feels*. For instance, in the picture of the monkey the high BS rating tracks the amount of BS the monkey sees in modern society (or the modern meat industry in particular). And in the third photo, the relatively low BS rating tracks the man's relative certainty about his feelings. He is 73% percent sure that he *does* in fact love you (with the remaining 27% is being picked up by the BS detector). With some practice and a little patience, one will start to understand the relationship between the quantitive and the qualitiative side of BS (i.e. the relationship that exists between the percentage points and the captions).
 
-For those interested, more screen-caps or promotional photos can be seen on the App Store or, failing that, in the [AppStoreAssets](./AppStoreAssets/) folder.
+For those interested, screen-caps or promotional photos for your particular Apple device can be found on the App store. All screen-caps or promotional photos are stored in the [AppStoreAssets](./AppStoreAssets/) folder.
 
 ### Legal disclaimers
 * 💩 This app does not ***literally*** detect BS

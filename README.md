@@ -1,12 +1,20 @@
 # 💩 BULL SNIFFER
 
-## What is this app?
+1. [What is this app?](#what)
+   1. [A brief, no bulls--t description](#breif)
+   2. [A flashier description](#flasier)
+   3. [Screenshots](#screenshots)
+3. [The privacy policy](#privacy)
+4. [Some legal disclaimers](#privacy)
+5. [A note on copyleft](#copyleft)
+
+## <a name="what">What is this app?</a>
 This app measures bulls--t. I'll explain more below.
 
-### A brief, no bulls--t description
+### <a name="breif">A brief, no bulls--t description</a>
 This is an iPhone app that measures BS scientifically. Simply point your iPhone at the suspected source of BS, and the app will scan it and determine how much BS is present as an exact percentage point. It will also provide a relevant caption to help the user gauge the significance of this measurement.
 
-### A flashier description
+### <a name="flasier">A flashier description</a>
 ***MEASURE B.S. SCIENTIFICALLY***
 
 Do you ever think to yourself: "darn, I wish there was a way to safely and securely measure BS scientifically from the safety of my Apple device"?
@@ -20,26 +28,26 @@ And that's it! Once you've successfully scanned the suspected source of BS, the 
 
 Use responsibly and sniff safely!
 
-### Screenshots
+### <a name="screenshots">Screenshots</a>
 Some of you may wish to see screen-caps of this app to know what you are dealing with. Your prayers have been heard. The screen-caps are below.
 
-Screen-cap of the Bull Sniffer being used at a halloween party.[^1]
+*Screen-cap of the Bull Sniffer being used at a halloween party:* [^1]
 ![people in halloween costumes](./AppStoreAssets/screencaps_for_README/01_woot_woot.png)
 
-Screen-cap of a monkey using the Bull Sniffer for the purposes of political commentary.[^2]
+*Screen-cap of a monkey using the Bull Sniffer for the purposes of political commentary:* [^2]
 ![a monkey critiquing human meat consumption](./AppStoreAssets/screencaps_for_README/02_smiling_landscape.png)
 
-Screen-cap of a man sharing a tender moment with the Bull Sniffer.[^3]
+*Screen-cap of a man sharing a tender moment with the Bull Sniffer:* [^3]
 ![a man poppin' the question](./AppStoreAssets/screencaps_for_README/03_love_landscape.png)
 
 At first glance, the captions in these screenshots might not seem immediately connected to the BS levels being detected by the Bull Sniffer's sensors. But recall that these captions are meant to express the *qualitative* side of BS: it expresses how the BS *feels*. For instance, in the picture of the monkey the high BS rating tracks the amount of BS the monkey sees in modern society (or the modern meat industry in particular). And in the third photo, the relatively low BS rating tracks the man's relative certainty about his feelings. He is 73% percent sure that he *does* in fact love you (with the remaining 27% is being picked up by the BS detector). With some practice and a little patience, one will start to understand the relationship between the quantitive and the qualitiative side of BS (i.e. the relationship that exists between the percentage points and the captions).
 
 For those interested, screen-caps or promotional photos for your particular Apple device can be found on the App store. All screen-caps or promotional photos are stored in the [AppStoreAssets](./AppStoreAssets/) folder.
 
-## Privacy policy
+## <a name="privacy">Privacy policy</a>
 This app requires access to your device's camera in order to function properly. That said, the app does not collect any information about the user whatsoever. No information is sent to any third parties since no information about the user is collected to begin with. The app does not record how often you use it, the photos you save, or anything at all. The data is all yours for the keeping.
 
-## Legal disclaimers
+## <a name="disclaimer">Legal disclaimers</a>
 * 💩 This app does not ***literally*** detect BS
 * 🧪 Strictly speaking, this app is not "scientific"
 * 🧬 Strictly speaking, this app's measurement software is not "highly technical"
@@ -49,7 +57,7 @@ This app requires access to your device's camera in order to function properly. 
 * 🛸 Do not use this app to start a multi-decade UFO/UAP crash retrieval + reverse engineering program
 * 📜 This app comes with absolutely ***NO*** warranty
 
-## A note on copyright (and/or copyleft)
+## <a name="copyleft">A note on copyright (and/or copyleft)</a>
 The software for the app can be found in the [App](./App/) directory. The images used for the App Store listing can be found in the [AppStoreAssets](./AppStoreAssets/) directory.
 
 The software is free software and is licensed under the [GNU Afferno General Public License](./LICENSE.txt). The images used for the App Store listing are modifications of images in the Creative Commons, retrieved via WikiMedia. Proper attribution is provided at the bottom left of each photo or in the footnotes below.

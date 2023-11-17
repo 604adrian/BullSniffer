@@ -36,7 +36,10 @@ At first glance, the captions in these screenshots might not seem immediately co
 
 For those interested, screen-caps or promotional photos for your particular Apple device can be found on the App store. All screen-caps or promotional photos are stored in the [AppStoreAssets](./AppStoreAssets/) folder.
 
-### Legal disclaimers
+## Privacy policy
+This app requires access to your device's camera in order to function properly. That said, the app does not collect any information about the user whatsoever. No information is sent to any third parties since no information about the user is collected to begin with. The app does not record how often you use it, the photos you save, or anything at all. The data is all yours for the keeping.
+
+## Legal disclaimers
 * 💩 This app does not ***literally*** detect BS
 * 🧪 Strictly speaking, this app is not "scientific"
 * 🧬 Strictly speaking, this app's measurement software is not "highly technical"
@@ -46,7 +49,7 @@ For those interested, screen-caps or promotional photos for your particular Appl
 * 🛸 Do not use this app to start a multi-decade UFO/UAP crash retrieval + reverse engineering program
 * 📜 This app comes with absolutely ***NO*** warranty
 
-### A note on copyright (and/or copyleft)
+## A note on copyright (and/or copyleft)
 The software for the app can be found in the [App](./App/) directory. The images used for the App Store listing can be found in the [AppStoreAssets](./AppStoreAssets/) directory.
 
 The software is free software and is licensed under the [GNU Afferno General Public License](./LICENSE.txt). The images used for the App Store listing are modifications of images in the Creative Commons, retrieved via WikiMedia. Proper attribution is provided at the bottom left of each photo or in the footnotes below.

@@ -5,6 +5,8 @@
    2. [A flashier description](#flasier)
    3. [Screenshots](#screenshots)
 3. [The privacy policy](#privacy)
+   1. [Permissions](#permissions)
+   2. [Data handling](#data)
 4. [Some legal disclaimers](#privacy)
 5. [A note on copyleft](#copyleft)
 
@@ -45,21 +47,34 @@ At first glance, the captions in these screenshots might not seem immediately co
 For those interested, screen-caps or promotional photos for your particular Apple device can be found on the App store. All screen-caps or promotional photos are stored in the [AppStoreAssets](./AppStoreAssets/) folder.
 
 # <a name="privacy">Privacy policy</a>
+
+## <a name="permissions">Permissions</a>
 The Bull Sniffer requires the following permissions:
-1. Permission to access your device's camera
-2. Permission to save images to the camera roll
+* Permission to access your device's camera
+* Permission to save images to the camera roll
+* Permission to add photos
 
-Since the Bull Sniffer is essentially a camera app, these permissions are necessary for the app's proper functioning. These permissions are only exercised under one or both of the following conditions are met:
-1. The user is currently accessing the Bull Sniffers internal camera view
-2. The user saves a photo using the Bull Sniffer's user interface
+This is what the permissions should look like in your settings:
+![screenshot of app permissions]('./AppStoreAssets/screencaps_for_README/permissions.jpg')
 
+Since the Bull Sniffer is essentially a camera/photo editing app, these permissions are necessary for the app's proper functioning. These permissions are only exercised if one of the following conditions are met:
+* The user is feeding a camera roll image into the app in order to scan it for bull
+* The user is currently accessing the Bull Sniffers internal camera view
+* The user saves a photo to their photo library using the Bull Sniffer's user interface
+In all cases these permissions are only exercised at the initiation of the user.
+
+These are the permissions that the Bull Sniffer is ***not*** asking for:
+* The Bull Sniffer is ***not*** asking for full access to the users photo library. Permissions to photos are given on a case-by-case basis; only when the user decides to feed a given photo into the Bull Sniffer will the app have access to that photo.
+* The Bull Sniffer is **not** asking for access to the users microphone. Because the Bull Sniffer scans photos, not videos, there is no need access to the device microphone.
+
+## <a name="data">Data handling</a>
 The Bull Sniffer does not collect any data about users or their app usage. More specifically:
 * The Bull Sniffer does not collect any third-party analytics
-* The Bull Sniffer does not include any third-party advertising
+* The Bull Sniffer does not include any third-party advertising and the app contains no ads
 * The Bull Sniffer does not share any data with third-parties
 * The Bull Sniffer does not collect any user or device data of any other kind
 
-In short: the Bull Sniffer does ***not*** collect any user or device data.
+Because the Bull Sniffer does not collect any user or device data, it has no servers to host user or device data. All of the data produced by the Bull Sniffer (i.e. the photos it makes) is stored on the users local device, the user's iCloud, or both. That data is then treated according the the relevant privacy policies defined by Apple or Apple iCloud.
 
 # <a name="disclaimer">Legal disclaimers</a>
 * 💩 This app does not ***literally*** detect BS

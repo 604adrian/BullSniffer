@@ -54,13 +54,14 @@ The Bull Sniffer requires the following permissions:
 * Permission to save images to the camera roll
 * Permission to add photos
 
-This is what the permissions should look like in your settings:
-![screenshot of app permissions]('./AppStoreAssets/screencaps_for_README/permissions.jpg')
+This is what this should look like if you go to the app's settings (in `Settings > Bull Sniffer`):
+![screenshot of app permissions](./AppStoreAssets/screencaps_for_README/permissions.jpg)
 
 Since the Bull Sniffer is essentially a camera/photo editing app, these permissions are necessary for the app's proper functioning. These permissions are only exercised if one of the following conditions are met:
 * The user is feeding a camera roll image into the app in order to scan it for bull
 * The user is currently accessing the Bull Sniffers internal camera view
 * The user saves a photo to their photo library using the Bull Sniffer's user interface
+
 In all cases these permissions are only exercised at the initiation of the user.
 
 These are the permissions that the Bull Sniffer is ***not*** asking for:

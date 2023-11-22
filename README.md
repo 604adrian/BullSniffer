@@ -46,6 +46,12 @@ At first glance, the captions in these screenshots might not seem immediately co
 
 For those interested, screen-caps or promotional photos for your particular Apple device can be found on the App store. All screen-caps or promotional photos are stored in the [AppStoreAssets](./AppStoreAssets/) folder.
 
+# <a name="download">Download information</a>
+If you have are currently viewing this document from your iPhone or iPad, you can download the Bull Sniffer by following this link: <https://apps.apple.com/ca/app/bull-sniffer/id6471924918>
+
+If you are currently viewing this document from your computer, you can download the Bull Sniffer by opening your iPad/iPhone's inbuilt camera app and :
+![QR code](./AppStoreAssets/screencaps_for_README/qr_code.png)
+
 # <a name="privacy">Privacy policy</a>
 
 ## <a name="permissions">Permissions</a>

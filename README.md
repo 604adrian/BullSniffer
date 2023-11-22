@@ -1,7 +1,7 @@
 # 💩 BULL SNIFFER
 
 1. [What is this app?](#what)
-   * [Screenshots](#screenshots)
+2. [Screenshots](#screenshots)
 3. [Download information](#download)
 4. [The privacy policy](#privacy)
 5. [Some legal disclaimers](#privacy)
@@ -25,7 +25,7 @@ Use responsibly and sniff safely!
 
 **TL;DR:** This is an app for iPhone or iPad that measures BS scientifically. Simply point your iPhone at the suspected source of BS, and the app will scan it and determine how much BS is present as an exact percentage point. It will also provide a relevant caption to help the user gauge the significance of this measurement.
 
-### <a name="screenshots">Screenshots</a>
+## <a name="screenshots">Screenshots</a>
 Some of you may wish to see screen-caps of this app to know what you are dealing with. Your prayers have been heard. The screen-caps are below.
 
 *Screen-cap of the Bull Sniffer being used at a halloween party:* [^1]

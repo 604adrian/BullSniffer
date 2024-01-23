@@ -1,13 +1,22 @@
 # 💩 BULL SNIFFER
 
-1. [What is this app?](#what)
-2. [Screenshots](#screenshots)
-3. [Download information](#download)
-4. [The privacy policy](#privacy)
-5. [Some legal disclaimers](#privacy)
-6. [A note on copyleft](#copyleft)
+* [Download information](#download)
+* [What is this app?](#what)
+* [Screenshots](#screenshots)
+* [The privacy policy](#privacy)
+* [Some legal disclaimers](#privacy)
+* [A note on copyleft](#copyleft)
 
-## <a name="what">What is this app?</a>
+# <a name="download">Download information</a>
+If you have are currently viewing this document from your iPhone or iPad, you can download the Bull Sniffer by following this link: <https://apps.apple.com/ca/app/bull-sniffer/id6471924918>
+
+If you are currently viewing this document from your computer, you can download the Bull Sniffer by opening your iPad/iPhone's camera and pointing it at this QR code:
+
+![QR code](./AppStoreAssets/screencaps_for_README/qr_code.png)
+
+Safe sniffing!
+
+# <a name="what">What is this app?</a>
 This app measures bulls--t. I'll explain more below.
 
 ***MEASURE B.S. SCIENTIFICALLY***
@@ -41,14 +50,7 @@ At first glance, the captions in these screenshots might not seem immediately co
 
 For those interested, screen-caps or promotional photos for your particular Apple device can be found on the App store. All screen-caps or promotional photos are stored in the [AppStoreAssets](./AppStoreAssets/) folder.
 
-## <a name="download">Download information</a>
-If you have are currently viewing this document from your iPhone or iPad, you can download the Bull Sniffer by following this link: <https://apps.apple.com/ca/app/bull-sniffer/id6471924918>
-
-If you are currently viewing this document from your computer, you can download the Bull Sniffer by opening your iPad/iPhone's camera and pointing it at this QR code:
-
-![QR code](./AppStoreAssets/screencaps_for_README/qr_code.png)
-
-## <a name="privacy">Privacy policy</a>
+# <a name="privacy">Privacy policy</a>
 
 The Bull Sniffer requires the following permissions:
 * Permission to access your device's camera
@@ -77,7 +79,7 @@ The Bull Sniffer does not collect any data about users or their app usage. More 
 
 Because the Bull Sniffer does not collect any user or device data, it has no servers to host user or device data. All of the data produced by the Bull Sniffer (i.e. the photos it makes) is stored on the users local device, the user's iCloud, or both. That data is then treated according the the relevant privacy policies defined by Apple or Apple iCloud.
 
-## <a name="disclaimer">Legal disclaimers</a>
+# <a name="disclaimer">Legal disclaimers</a>
 * 💩 This app does not ***literally*** detect BS
 * 🧪 Strictly speaking, this app is not "scientific"
 * 🧬 Strictly speaking, this app's measurement software is not "highly technical"
@@ -87,10 +89,12 @@ Because the Bull Sniffer does not collect any user or device data, it has no ser
 * 🛸 Do not use this app to start a multi-decade UFO/UAP crash retrieval + reverse engineering program
 * 📜 This app comes with absolutely ***NO*** warranty
 
-## <a name="copyleft">A note on copyright (and/or copyleft)</a>
+# <a name="copyleft">A note on copyright/copyleft</a>
 The software for the app can be found in the [App](./App/) directory. The images used for the App Store listing can be found in the [AppStoreAssets](./AppStoreAssets/) directory.
 
-The software is free software and is licensed under the [GNU Afferno General Public License](./LICENSE.txt). The images used for the App Store listing are modifications of images in the Creative Commons, retrieved via WikiMedia. Proper attribution is provided at the bottom left of each photo or in the footnotes below.
+The software is free software and is licensed under the [GNU Afferno General Public License](./LICENSE.txt).
+
+The images used for the App Store listing are modifications of images in the Creative Commons, retrieved via WikiMedia. Proper attribution is provided at the bottom left of each photo or in the footnotes below.
 
 [^1]: Original picture from Infrogmation of New Orleans, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
 [^2]: The original picture is a self-portrait by the depicted Macaca nigra female. Public domain, via Wikimedia Commons
